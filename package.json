@@ -1,0 +1,24 @@
+{
+  "name": "zomatowebscrapper",
+  "version": "1.0.0",
+  "description": "a web scrapper that fetches restaurants details from Zomato",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi007singh/zomatowebscrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhi007singh/zomatowebscrapper/issues"
+  },
+  "homepage": "https://github.com/abhi007singh/zomatowebscrapper#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^19.7.2"
+  }
+}
