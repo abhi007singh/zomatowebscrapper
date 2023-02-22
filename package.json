@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/abhi007singh/zomatowebscrapper#readme",
   "dependencies": {
-    "express": "^4.18.2",
     "puppeteer": "^19.7.2"
   }
 }
