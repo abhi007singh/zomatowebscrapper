@@ -123,3 +123,7 @@ const scrap = async (url) => {
     menu: menu,
   };
 };
+
+module.exports = {
+  scrap,
+};
