@@ -1,7 +1,7 @@
 require("dotenv").config();
 const express = require("express");
 
-const { scrap} = require("./zomatoScraper/scraper");
+const { scrap } = require("./zomatoScraper/scraper");
 
 const PORT = process.env.PORT || 3000;
 
